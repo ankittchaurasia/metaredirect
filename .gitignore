@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules
+.next
+
+# Build and output directories
+/build
+/dist
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency lock file
+yarn.lock
+package-lock.json
+
+# macOS
+.DS_Store
+
+# Editor-related files
+.vscode/
+.idea/
+
+# Webpack related files
+*.cache
+*.sourcemaps
+
+# Tests
